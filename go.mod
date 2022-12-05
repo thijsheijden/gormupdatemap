@@ -1,4 +1,4 @@
-module gormupdatemap
+module github.com/thijsheijden/gormupdatemap
 
 go 1.18
 
